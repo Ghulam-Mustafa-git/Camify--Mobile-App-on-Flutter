@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "852447908373",
+    "project_id": "finalfyp-ae408",
+    "storage_bucket": "finalfyp-ae408.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852447908373:android:762c27118e17d618cf341c",
+        "android_client_info": {
+          "package_name": "com.example.camify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDazwqgXxv4GN5otU3ZGUSWkD3-zlibMFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
